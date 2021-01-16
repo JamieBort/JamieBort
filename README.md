@@ -1,4 +1,4 @@
-### Jamie Bort
+## Welcome to my GitHub account.
 Problem Solver - Technology Student - Code Tinkerer
 
 
