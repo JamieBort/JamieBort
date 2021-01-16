@@ -1,6 +1,11 @@
-### Hi there 👋
+### Jamie Bort
+Problem Solver - Technology Student - Code Tinkerer
+
 
 <!--
+### Hi there 👋
+
+
 **JamieBort/JamieBort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
