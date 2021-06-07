@@ -1,6 +1,10 @@
 ## Welcome to my GitHub account.
 Problem Solver - Technology Student - Code Tinkerer
 
+To find out more about me
+* explore my GitHub account.
+* or explore [my site](jamiebort.com).
+
 
 <!--
 ### Hi there 👋
