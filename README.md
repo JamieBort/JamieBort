@@ -3,7 +3,7 @@ Problem Solver - Technology Student - Code Tinkerer
 
 To find out more about me
 * explore my GitHub account.
-* or explore [my portfolio site](jamiebort.com).
+* or explore [my portfolio site](http://jamiebort.com/).
 
 
 <!--
