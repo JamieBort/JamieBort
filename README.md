@@ -1,25 +1,35 @@
-## Welcome to my GitHub account.
-Problem Solver - Technology Student - Code Tinkerer
+<!-- Add a header or banner here. -->
 
-To find out more about me
-* explore my GitHub account.
-* or explore [my portfolio site](http://jamiebort.com/).
+## Hello! 👋 I am Jamie. 
+
+<!-- Avid Coder - Problem Solver - Lifelong Technology Student -->
+
+<!-- <center>Avid Coder | Problem Solver | Lifelong Technology Student</center> -->
+
+<center>Avid Coder | Always Learning | Always Doing</center>
+
+<!-- **<center>Welcome to my GitHub account.</center>** -->
 
 
-<!--
-### Hi there 👋
 
 
-**JamieBort/JamieBort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my GitHub account.** 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Add some horizontal visual divider here. -->
+
+<!-- 
+Icons I'm interested in:
+💻
+👨‍💻
+  -->
+
+<!-- I am a problem solver, a life-long student of technology, and an avid coder. -->
+
+-- Everything you'd like to know about me can be found on [my portfolio site](http://jamiebort.com/). Or here in my GitHub account.
+
+-- While you're here, please look around.
+
+-- Everything pinned below is a project I am currently working on. Or I am proud to showcase.
+
+<!-- <center>Always learning | Always doing</center> -->
