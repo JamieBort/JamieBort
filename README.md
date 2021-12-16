@@ -1,12 +1,14 @@
 <!-- Add a header or banner here. -->
-
-## Hello! 👋 I am Jamie. 
+# <center>Hello! 👋 I am Jamie. </center>
+<!-- ## Hello! 👋 I am Jamie.  -->
 
 <!-- Avid Coder - Problem Solver - Lifelong Technology Student -->
 
 <!-- <center>Avid Coder | Problem Solver | Lifelong Technology Student</center> -->
 
 <center>Avid Coder | Always Learning | Always Doing</center>
+
+
 
 <!-- **<center>Welcome to my GitHub account.</center>** -->
 
