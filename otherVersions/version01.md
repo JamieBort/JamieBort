@@ -2,7 +2,7 @@
 
 I'm a UX Engineer at IBM
 
-## Current Projects <br/>
+## Current Projects
 
 > ⭐️ [To-Do App](https://github.com/JamieBort/To-Do-App) - ~~I'm currently building a library of React components that are reusable and centered around my personal design style.~~
 
