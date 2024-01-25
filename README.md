@@ -46,11 +46,18 @@ I love to meet new people. Connect with me. Ask me questions!
 
 ## Connect with Me
 
-<!-- from juliajcodes.md in https://github.com/jamiebort/LearningDirectory/tree/master/Meta/readme/project_readme_templates -->
-
-- [Portfolio](https://jamiebort.com/)
-- [GitHub](https://github.com/jamiebort)
+- [Portfolio](https://jamiebort.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/jamie-bort/)
 - [Twitter](https://twitter.com/jamiebort)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<div align='center'>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
+</div>
+
+<div align="center">
+  <img src="https://opensource.org/licenses/MIT">
+</div>
