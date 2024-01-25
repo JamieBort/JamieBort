@@ -34,9 +34,19 @@ Icons I'm interested in:
 
 ## Current Projects
 
+<!-- from juliajcodes.md in https://github.com/JamieBort/LearningDirectory/tree/master/Meta/readme/project_readme_templates -->
+
 > ⭐️ [To-Do App](https://github.com/JamieBort/To-Do-App) - ~~I'm currently building a library of React components that are reusable and centered around my personal design style.~~
 
 > 🔥 [PersonalDashboard](https://github.com/JamieBort/PersonalDashboard) - ~~I'm rebuilding my portfolio to modernize and simplify the code structure with React and Gatsby.~~
+
+## Technology Stack
+
+## Latest Blog Posts
+
+<!-- from ereshzealous.md in https://github.com/JamieBort/LearningDirectory/tree/master/Meta/readme/project_readme_templates -->
+
+➡️ [more blog posts...](https://eresh-zealous.medium.com/)
 
 ## My Values
 
@@ -53,6 +63,8 @@ Icons I'm interested in:
 🧘🏼‍♀️ Yoga lover -->
 
 ## Connect with Me
+
+<!-- from juliajcodes.md in https://github.com/JamieBort/LearningDirectory/tree/master/Meta/readme/project_readme_templates -->
 
 - [Portfolio Website]() <br/>
 - [Instagram]() <br/>
