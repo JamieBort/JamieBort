@@ -10,7 +10,7 @@ When I am not coding I am working on my next presentation or mentoring; both of 
 
 Everything you'd like to know about me can be found on [my portfolio site](http://jamiebort.com/). Or here in my GitHub account.
 
-But I love to meet new people. Connect with me. Ask me questions!
+I love to meet new people. Connect with me. Ask me questions!
 
 ## Current Projects
 
