@@ -14,7 +14,7 @@ But I love to meet new people. Connect with me. Ask me questions!
 
 ## Current Projects
 
-> :white_check_mark: [To-Do App](https://github.com/jamiebort/To-Do-App) - Simple React app.
+> :clipboard: [To-Do App](https://github.com/jamiebort/To-Do-App) - Simple React app.
 
 ## Technology Stack
 
