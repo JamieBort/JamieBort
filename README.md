@@ -14,7 +14,9 @@ I love to meet new people. Connect with me. Ask me questions!
 
 ## Current Projects
 
-> :clipboard: [To-Do App](https://github.com/jamiebort/To-Do-App) - Simple React app.
+<!-- > :clipboard: [To-Do App](https://github.com/jamiebort/To-Do-App) - Simple React app. -->
+
+> :computer: 💻 [JamieBort.com](https://jamiebort.github.io) - I am adding a Node back end to my portfolio website so it can make API calls.
 
 ## Technology Stack
 
