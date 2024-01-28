@@ -16,7 +16,7 @@ I love to meet new people. Connect with me. Ask me questions!
 
 <!-- > :clipboard: [To-Do App](https://github.com/jamiebort/To-Do-App) - Simple React app. -->
 
-> :computer: 💻 [JamieBort.com](https://jamiebort.github.io) - I am adding a Node back end to my portfolio website so it can make API calls.
+> :computer: [JamieBort.com](https://jamiebort.github.io) - I am working on hosting it with a node back end so that it can make GraphQL calls.
 
 ## Technology Stack
 
