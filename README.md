@@ -14,7 +14,7 @@ I love to meet new people. Connect with me. Ask me questions!
 
 ## Current Projects
 
-> :computer: [JamieBort.com](https://jamiebort.github.io) - I am currently rebuilding this static site to be a hosted fullstack porfolio. More info can be found in the [About](https://github.com/JamieBort/jamiebort.github.io?tab=readme-ov-file#contribute) section of the README file.
+> :computer: [JamieBort.com](https://jamiebort.github.io) - I am currently rebuilding this static site to be a hosted fullstack porfolio. More info can be found in the [About](https://github.com/JamieBort/jamiebort.github.io?tab=readme-ov-file#about) section of the README file.
 
 <!-- ## Completed Projects -->
 
