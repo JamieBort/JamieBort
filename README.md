@@ -1,4 +1,4 @@
-<!-- Add a header or banner here. -->
+<!-- (Maybe) add a header or banner here. -->
 
 # Hello! 👋🏻 I am Jamie.<div align = 'right'>![](https://komarev.com/ghpvc/?username=jamiebort&color=blueviolet)</div>
 
@@ -14,9 +14,9 @@ I love to meet new people. Connect with me. Ask me questions!
 
 ## Current Projects
 
-<!-- > :clipboard: [To-Do App](https://github.com/jamiebort/To-Do-App) - Simple React app. -->
+> :computer: [JamieBort.com](https://jamiebort.github.io) - I am currently rebuilding this static site to be a hosted fullstack porfolio. More info can be found in the [About](https://github.com/JamieBort/jamiebort.github.io?tab=readme-ov-file#contribute) section of the README file.
 
-> :computer: [JamieBort.com](https://jamiebort.github.io) - Now that my site is hosted with a front end and backend making GraphyQL calls, I am rebuilding the Vite + React front end and migrating files over.
+<!-- ## Completed Projects -->
 
 ## Technology Stack
 
