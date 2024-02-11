@@ -16,7 +16,7 @@ I love to meet new people. Connect with me. Ask me questions!
 
 <!-- > :clipboard: [To-Do App](https://github.com/jamiebort/To-Do-App) - Simple React app. -->
 
-> :computer: [JamieBort.com](https://jamiebort.github.io) - I am working on hosting it with a node back end so that it can make GraphQL calls.
+> :computer: [JamieBort.com](https://jamiebort.github.io) - Now that my site is hosted with a front end and backend making GraphyQL calls, I am rebuilding the Vite + React front end and migrating files over.
 
 ## Technology Stack
 
@@ -41,3 +41,5 @@ I love to meet new people. Connect with me. Ask me questions!
 - [Twitter](https://twitter.com/jamiebort)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+![Static Badge](https://img.shields.io/badge/Last_Updated-2024_Feb_11-blue)
