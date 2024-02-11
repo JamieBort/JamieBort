@@ -1,7 +1,5 @@
 # notes
 
-**NOTE:** the root readme file for this directory is one directory up, outside of the repo.
-
 ## Purpose
 
 To house all files and directories necessary for the use of the notes.md file.

@@ -1,5 +1,7 @@
 # notes
 
+Notes for creating (and maintaining?) an effective GitHub account readme file to obtain jobs and network.
+
 Below are my notes from [A beginner’s guide to writing a stunning GitHub profile readme.](https://medium.com/theleanprogrammer/a-beginner-guide-to-writing-a-stunning-github-profile-readme-6ee0e211f5a8) by Yadvi Bhalla.
 
 1. Keep it simple.

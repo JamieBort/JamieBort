@@ -1,7 +1,5 @@
 # otherVersions
 
-**NOTE:** the root readme file for this directory is one directory up, outside of the repo.
-
 ## Purpose
 
 To house various version of the README file as I brainstorm and hone the finished product.
