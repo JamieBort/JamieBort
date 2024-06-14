@@ -14,7 +14,7 @@ I love to meet new people. Connect with me. Ask me questions!
 
 ## Current Projects
 
-> :computer: [JamieBort.com](https://jamiebort.github.io) - I am currently rebuilding this static site to be a hosted fullstack porfolio. More info can be found in the [About](https://github.com/JamieBort/jamiebort.github.io?tab=readme-ov-file#about) section of the README file.
+> :computer: [JamieBort.com](http://jamiebort.com/) - I am currently rebuilding this static site to be a hosted fullstack porfolio. More info can be found in the [About](https://github.com/JamieBort/Portfolio-Website?tab=readme-ov-file#about) section of the README file.
 
 <!-- ## Completed Projects -->
 
@@ -42,4 +42,4 @@ I love to meet new people. Connect with me. Ask me questions!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Static Badge](https://img.shields.io/badge/Last_Updated-2024_Feb_11-blue)
+![Static Badge](https://img.shields.io/badge/Last_Updated-2024_Jun_14-blue)
