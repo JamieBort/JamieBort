@@ -36,7 +36,7 @@ I love to meet new people. Connect with me. Ask me questions!
 
 ## Connect with Me
 
-- [Portfolio](https://jamiebort.github.io/)
+- [Portfolio](http://jamiebort.com/)
 - [LinkedIn](https://www.linkedin.com/in/jamie-bort/)
 - [Twitter](https://twitter.com/jamiebort)
 
